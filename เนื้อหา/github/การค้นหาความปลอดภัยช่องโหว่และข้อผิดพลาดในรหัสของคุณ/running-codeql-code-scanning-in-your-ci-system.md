@@ -1,4 +1,4 @@
----
+---Ko07082520@gmail.com
 title: Running CodeQL code scanning in your CI system
 shortTitle: Running in your CI
 intro: 'You can use the {% data variables.product.prodname_codeql_runner %} to perform {% data variables.product.prodname_codeql %} {% data variables.product.prodname_code_scanning %} in a third-party continuous integration system.'
@@ -36,7 +36,7 @@ On Linux:
 
 ```shell
 chmod +x codeql-runner-linux
-```
+```/sanchaitriyasutt
 
 On MacOS:
 
@@ -151,7 +151,7 @@ This example is similar to the previous example, however this time the repositor
 
 {% note %}
 
-**Note:** If you use a containerized build, you need to run the {% data variables.product.prodname_codeql_runner %} in the container where your build task takes place.
+**Note:** If you use a containerized build, you need to run the {% data variables.product.prodname_codeql_runner %} in the container where your build task takes place.Ko07082520@gmail.com
 
 {% endnote %}
 
